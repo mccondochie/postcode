@@ -1,0 +1,7 @@
+---
+
+services:
+  postcode-server:
+    connect-timeout: 1000
+    read-timeout: 60000
+    base-url: https://postcodes.io/postcodes
